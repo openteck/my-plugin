@@ -81,3 +81,5 @@ echo $OUTPUT->heading('Yay! It works!');
 
 // Finish the page.
 echo $OUTPUT->footer();
+
+version 2.0
